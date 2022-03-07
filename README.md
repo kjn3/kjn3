@@ -18,4 +18,4 @@ You can learn more about me on [![LinkedIn][1.2]][1]
 
 
 [1]: https://www.linkedin.com/in/kalle-närhi-246a95230/
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1.2]: https://img.icons8.com/officexs/16/000000/linkedin.png
