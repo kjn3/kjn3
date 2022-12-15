@@ -7,7 +7,6 @@
 - I'm from Finland!
 - I'm always looking for new projects to contribute to.
 
-You can learn more about me on [![LinkedIn][1.2]][1] 
 
 
 
