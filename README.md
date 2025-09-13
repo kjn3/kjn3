@@ -1,15 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## Some facts about me
-- My name is Kalle.
-- I'm very motivated Information Technology student.
-- I'm from Finland!
-- I'm always looking for new projects to contribute to.
-
-
-
-
 #
 ### My most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walaska&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
